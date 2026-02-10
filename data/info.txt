@@ -1,0 +1,25 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Hugo Meza
+Matrícula: A00841695
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Es parte de mi formación como Ingeniero en Ciencia de Datos. Me gusta mucho poder aprender sobre Ciencia de Datos y poder aplicar mis conocimientos para poder explotar al máximo mis habilidades.
+
+¿Qué espero aprender?
+Los conceptos básicos de la Ciencia de Datos, sus aplicaciones y cómo se trabaja en el campo laboral. 
+
+Herramientas que ya conozco:
+- Python
+- Pandas
+- Power BI
+- SQL
+- Java, JavaScript, PHP, Kotlin
+- GitHub
+- Google Collab
+
+Herramientas nuevas para mí:
+- Mershear varias ramas en GitHub
+- Casi nunca uso los comandos de Git (Tengo GitHub Desktop)
