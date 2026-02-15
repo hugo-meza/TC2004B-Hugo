@@ -55,8 +55,9 @@ source tc2004b_env/bin/activate
 **Windows (PowerShell):**
 ```bash
 python -m venv tc2004b_env
-tc2004b_env\Scripts\Activate.ps1
+tc2004b_env\Scripts\Activate
 ```
+
 
 #### 3. Instalar dependencias
 ```bash
