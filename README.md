@@ -6,7 +6,7 @@
 
 ## Descripción
 
-Repositorio personal para el curso TC2004B. Contiene notebooks y proyectos del semestre.
+Repositorio personal para el curso TC2004B "Análisis de Ciencia de Datos". Contiene notebooks y actividades del semestre.
 
 ## Estructura
 
